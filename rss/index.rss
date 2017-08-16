@@ -1,0 +1,85 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>LearnIt</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Wed, 16 Aug 2017 19:19:36 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome To Github!</title><description>&lt;p&gt;If you are new to github then this is the right place to kickstart your github journey.&lt;/p&gt;
+
+&lt;h3 id="youlllearnhowto"&gt;You’ll learn how to :&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create and use a repository&lt;/li&gt;
+&lt;li&gt;Make changes to a file and push them to GitHub as commits&lt;/li&gt;
+&lt;li&gt;Open and merge a pull request&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="whatisgithub"&gt;What is Github???&lt;/h2&gt;
+
+&lt;p&gt;"GitHub is&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-github/</link><guid isPermaLink="false">f197ff6b-8d26-4f40-ae1e-f457c4e978c7</guid><category>Getting Started</category><dc:creator>aswinzz</dc:creator><pubDate>Wed, 16 Aug 2017 18:44:28 GMT</pubDate><media:content url="http://localhost:2368/content/images/2017/08/github-mark.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2017/08/github-mark.png" alt="Welcome To Github!"&gt;&lt;p&gt;If you are new to github then this is the right place to kickstart your github journey.&lt;/p&gt;
+
+&lt;h3 id="youlllearnhowto"&gt;You’ll learn how to :&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create and use a repository&lt;/li&gt;
+&lt;li&gt;Make changes to a file and push them to GitHub as commits&lt;/li&gt;
+&lt;li&gt;Open and merge a pull request&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="whatisgithub"&gt;What is Github???&lt;/h2&gt;
+
+&lt;p&gt;"GitHub is a web-based Git or version control repository and Internet hosting service" This is what wikipedia says!!
+Let me make it simple,Github is a place where you host or upload opensource project so that others can use it and even help us in adding more features to it.&lt;/p&gt;
+
+&lt;h2 id="requirements"&gt;Requirements&lt;/h2&gt;
+
+&lt;p&gt;A github account,Internet Access!!&lt;/p&gt;
+
+&lt;h3 id="letsbegin"&gt;Lets Begin..&lt;/h3&gt;
+
+&lt;h2 id="1createarepository"&gt;1) Create a Repository&lt;/h2&gt;
+
+&lt;p&gt;A repository is usually used to organize a single project.Repository can be considered as a folder where you keep the files of a particular project.&lt;/p&gt;
+
+&lt;h2 id="tocreateanewrepository"&gt;To Create A New Repository-:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In the upper right corner, next to your avatar, click  and then select &lt;code&gt;New repository&lt;/code&gt;.
+&lt;img src="https://pbs.twimg.com/media/DHXthPlVwAA8_Zj.jpg" alt="Welcome To Github!"&gt;&lt;/li&gt;
+&lt;li&gt;Name your repository hello-world.&lt;/li&gt;
+&lt;li&gt;Write a short description.&lt;/li&gt;
+&lt;li&gt;Select Initialize this repository with a README.
+&lt;img src="https://pbs.twimg.com/media/DHXt1iCVoAE5A5Q.jpg" alt="Welcome To Github!"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;README&lt;/code&gt; is a file where you can give information about your project like installation of the project or how it works or anything related to the project.The README file will have a great affect on the project.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="2createnewfileuploadeditandcommitchanges"&gt;2) Create New File/Upload/Edit and commit changes&lt;/h2&gt;
+
+&lt;p&gt;Once you create a new repo(repository),your window will look like this.. &lt;br&gt;
+&lt;img src="https://pbs.twimg.com/media/DHXue2_UQAAulAz.jpg" alt="Welcome To Github!"&gt;&lt;/p&gt;
+
+&lt;h2 id="tocreateanewfile"&gt;To create a new file :&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;click on the &lt;code&gt;Create new File&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enter The required name with some extension(.txt , .c , .js  etc..) and add the content.
+&lt;img src="https://pbs.twimg.com/media/DHXveBpU0AEZJ98.jpg" alt="Welcome To Github!"&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Then go down and at the end There will be a box named commit changes(&lt;strong&gt;Whatever new files or any changes that you make it should be updated in the repository , for that we need to commit our changes&lt;/strong&gt;).So give a commit message(Mentioning the change that you made) and click on &lt;code&gt;Commit Changes/New file&lt;/code&gt;
+&lt;img src="https://pbs.twimg.com/media/DHXveB7VYAAcPiD.jpg" alt="Welcome To Github!"&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="touploadanewfile"&gt;To upload a new file :&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;click on &lt;code&gt;Upload files&lt;/code&gt; and then select your file.&lt;/li&gt;
+&lt;li&gt;Then add a commit message (like "add image/code/whatever..")&lt;/li&gt;
+&lt;li&gt;Click on &lt;code&gt;commit changes&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="toeditfiles"&gt;To Edit files :&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lets take the readme file as an example. Click on the README.md(md stands for MarkDown) file&lt;/li&gt;
+&lt;li&gt;Click on the "pencil" icon and editor will open and make the required changes&lt;/li&gt;
+&lt;li&gt;add a commit message(Like edit README) and click on &lt;code&gt;commit changes&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More to be added in the coming posts &lt;br&gt;
+Thank You!!!&lt;/p&gt;</content:encoded></item></channel></rss>
